@@ -1,0 +1,1 @@
+Deploy static : NGINX - FABRIC
